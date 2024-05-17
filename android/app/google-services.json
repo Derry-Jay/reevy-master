@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221984058003",
+    "firebase_url": "https://reevy-29eea.firebaseio.com",
+    "project_id": "reevy-29eea",
+    "storage_bucket": "reevy-29eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221984058003:android:78814a170665734b12fb66",
+        "android_client_info": {
+          "package_name": "com.reevy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221984058003-377h781s7815kkj1ngtbaftgc1jrathp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFuYCT2pgqeyHwsPgxuTCYkleAj2MCfHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221984058003-377h781s7815kkj1ngtbaftgc1jrathp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
